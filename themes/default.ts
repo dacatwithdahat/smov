@@ -47,7 +47,7 @@ const tokens = {
   },
   purple: {
     c50: "#D5AAFF",
-    c100: "#C082FF",
+    c100: "#F490C2",
     c200: "#A359EC",
     c300: "#8D44D6",
     c400: "#7831BF",
