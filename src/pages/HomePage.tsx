@@ -62,7 +62,7 @@ export function HomePage() {
               scrollbar-gutter: stable;
             }
           `}</style>
-          <title>{t("global.name")}</title>
+          <title>{t("cutesillysite")}</title>
         </Helmet>
         <HeroPart searchParams={searchParams} setIsSticky={setShowBg} />
       </div>
