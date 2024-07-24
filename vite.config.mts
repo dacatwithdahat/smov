@@ -67,8 +67,8 @@ export default defineConfig(({ mode }) => {
           "safari-pinned-tab.svg",
         ],
         manifest: {
-          name: "sudo-flix",
-          short_name: "sudo-flix",
+          name: "cutesillysite",
+          short_name: "cutesillysite",
           description: "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)",
           theme_color: "#120f1d",
           background_color: "#120f1d",
@@ -76,25 +76,25 @@ export default defineConfig(({ mode }) => {
           start_url: "/",
           icons: [
             {
-              src: "android-chrome-192x192.png",
+              src: "https://storage.googleapis.com/sticker-prod/co8o4ChS7SuFuFcAwqZ6/cover-1.thumb256.png",
               sizes: "192x192",
               type: "image/png",
               purpose: "any",
             },
             {
-              src: "android-chrome-512x512.png",
+              src: "https://storage.googleapis.com/sticker-prod/co8o4ChS7SuFuFcAwqZ6/cover-1.thumb256.png",
               sizes: "512x512",
               type: "image/png",
               purpose: "any",
             },
             {
-              src: "android-chrome-192x192.png",
+              src: "https://storage.googleapis.com/sticker-prod/co8o4ChS7SuFuFcAwqZ6/cover-1.thumb256.png",
               sizes: "192x192",
               type: "image/png",
               purpose: "maskable",
             },
             {
-              src: "android-chrome-512x512.png",
+              src: "https://storage.googleapis.com/sticker-prod/co8o4ChS7SuFuFcAwqZ6/cover-1.thumb256.png",
               sizes: "512x512",
               type: "image/png",
               purpose: "maskable",
