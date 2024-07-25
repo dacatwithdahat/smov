@@ -76,25 +76,25 @@ export default defineConfig(({ mode }) => {
           start_url: "/",
           icons: [
             {
-              src: "https://storage.googleapis.com/sticker-prod/co8o4ChS7SuFuFcAwqZ6/cover-1.thumb256.png",
+              src: "1android-chrome-192x192.png",
               sizes: "192x192",
               type: "image/png",
               purpose: "any",
             },
             {
-              src: "https://storage.googleapis.com/sticker-prod/co8o4ChS7SuFuFcAwqZ6/cover-1.thumb256.png",
+              src: "android-chrome-512x512.png",
               sizes: "512x512",
               type: "image/png",
               purpose: "any",
             },
             {
-              src: "https://storage.googleapis.com/sticker-prod/co8o4ChS7SuFuFcAwqZ6/cover-1.thumb256.png",
+              src: "1android-chrome-192x192.png",
               sizes: "192x192",
               type: "image/png",
               purpose: "maskable",
             },
             {
-              src: "https://storage.googleapis.com/sticker-prod/co8o4ChS7SuFuFcAwqZ6/cover-1.thumb256.png",
+              src: "android-chrome-512x512.png",
               sizes: "512x512",
               type: "image/png",
               purpose: "maskable",
