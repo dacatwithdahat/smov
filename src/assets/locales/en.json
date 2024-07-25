@@ -101,7 +101,7 @@
     "tagline": "Watch your favorite shows and movies for free with no ads ever! (っ'ヮ'c)"
   },
   "global": {
-    "name": "sudo-flix",
+    "name": "cutesillysite",
     "pages": {
       "about": "About",
       "dmca": "DMCA",
@@ -133,14 +133,7 @@
       "placeholder": {
         "default": "What do you want to watch?",
         "extra": [
-          "What are you in the mood for?",
-          "Should we delete your browser history?",
-          "What do you want to stream?",
-          "Sudo-Flix is the best site ever!",
           "What's on your watchlist today?",
-          "How was your day?",
-          "My bad the site never works...",
-          "Isn't sudo-flix just the best?",
           ">ᴗ<"
         ]
       },
