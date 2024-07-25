@@ -42,7 +42,7 @@
   background-image: linear-gradient(243deg, hsl(284,86%,77%),hsl(335.429,86%,77%),hsl(26.857,86%,77%),hsl(78.286,86%,77%),hsl(129.714,86%,77%),hsl(181.143,86%,77%),hsl(232.571,86%,77%));
   background-position-x: 50%, 50%;
   background-position-y: 0%, 0%;
-  background-size: 50% 100%, 50% 100%;
+  background-size: 100% 100%, 100% 100%;
   opacity: 1;
   transform: rotate(180deg) translateZ(0px) translateY(400px);
   transform-origin: center center;
